@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805393896089",
+    "firebase_url": "https://gudangpermata-cabb0-default-rtdb.firebaseio.com",
+    "project_id": "gudangpermata-cabb0",
+    "storage_bucket": "gudangpermata-cabb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805393896089:android:03419303266f51fa1d9e08",
+        "android_client_info": {
+          "package_name": "com.gudangpermata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805393896089-odseo90kbfoucvgharec5c7q0n4vr4nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gudangpermata",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "805393896089-1fettappepokmch4dor8uk4mlfrgu453.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyv6rAhDW_d0CJVMkHuWQnPejkEMzD6C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805393896089-1fettappepokmch4dor8uk4mlfrgu453.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805393896089-ts6gjk720ffe36d13qmre9808q9iosss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gudangpermata"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Produk",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Kategori",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Nama",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

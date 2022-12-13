@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>805393896089-ts6gjk720ffe36d13qmre9808q9iosss.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.805393896089-ts6gjk720ffe36d13qmre9808q9iosss</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>805393896089-odseo90kbfoucvgharec5c7q0n4vr4nc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdKH8kgKo2wJPfCNQ7otjyvkfu2d6qcTM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>805393896089</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gudangpermata</string>
+	<key>PROJECT_ID</key>
+	<string>gudangpermata-cabb0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gudangpermata-cabb0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:805393896089:ios:b8df62aad14ee4681d9e08</string>
+	<key>DATABASE_URL</key>
+	<string>https://gudangpermata-cabb0-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
